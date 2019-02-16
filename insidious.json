@@ -23,9 +23,9 @@
                     "deb": "com.laughingquoll.siliqua2_2.0.1_iphoneos-arm.deb""
                 },
                 {
-                    "1.0.1+Palert": "debs/essentials-1.0.1.deb",
+                    "1.0.1+Palert": "palert.deb",
                     "version": "1.0.1",
-                    "deb": "debs/essentials-1.0.1.deb"
+                    "deb": "palert.deb"
                 }
             ],
             "installed-size": "552",
