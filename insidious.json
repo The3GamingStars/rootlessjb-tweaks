@@ -17,31 +17,31 @@
             ],
             "debs": [
                 {
-                    "1.0": "com.laughingquoll.siliqua2_2.0.1_iphoneos-arm.deb",
-                    "version": "1.0",
-                    "deb": "com.laughingquoll.siliqua2_2.0.1_iphoneos-arm.deb""
+                    "2.0.1": "https://github.com/The3GamingStars/rootlessjb-tweaks/blob/master/com.laughingquoll.siliqua2_2.0.1_iphoneos-arm.deb?raw=true",
+                    "version": "2.0.1",
+                    "deb": "https://github.com/The3GamingStars/rootlessjb-tweaks/blob/master/com.laughingquoll.siliqua2_2.0.1_iphoneos-arm.deb?raw=true""
                 },
             ],
-            "installed-size": "552",
-            "sha256": "6a28fb80d5db3ede324f275c13e0622cb8d98b9ac320345eab3307d0bb15369f",
-            "sha1": "b5a5b8de580f29821f7fff55bc4b9ac835f77bbd",
-            "md5sum": "ce5002dbf2ab64cbaa1e4b6a710028d5",
-            "depiction": "https//repo.packix.com/package/com.quackdev.twitterdarkmode/",
-            "size": "82594",
-            "filename": "api/PackageVersions/5c5c942a35b40a001863f763.deb",
+            "installed-size": "176",
+            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "md5sum": "9d6d302c1209356a884d8245832d4f0d",
+            "depiction": "https//repo.packix.com/package/com.laughingquoll.siliqua2",
+            "size": "12904",
+            "filename": "com.laughingquoll.siliqua2_2.0.1_iphoneos-arm.deb",
             "tag": "purposeextension, compatible_minios10, compatible_maxios12.1.4"
         }
     ],
     "Release": [
         {
-          "Origin": "Insidious Essentials",
-          "Label": "Insidious Essentials",
+          "Origin": "RootlessJB Tweaks",
+          "Label": "RootlessJB Tweaks",
           "Suite": "stable",
           "Version": "1.0",
-          "Codename": "insidiousessentials",
+          "Codename": "rjbtweaks",
           "Architectures": "iphoneos-arm",
           "Components": "main",
-          "Description": "\"The Essentials required to Insidious.\"",
+          "Description": "\"Tweaks that work with insidious.\"",
           "Icon": "https://ignition.fun/InsidiousIcon.png",
           "OriginalURL": "https://insidious.ignition.fun"
         }
