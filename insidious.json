@@ -14,7 +14,6 @@
             "icon": "https://ignition.fun/images/IgnitionIcon.png",
             "versions": [
                 "1.0",
-                "1.0.1"
             ],
             "debs": [
                 {
@@ -22,11 +21,6 @@
                     "version": "1.0",
                     "deb": "com.laughingquoll.siliqua2_2.0.1_iphoneos-arm.deb""
                 },
-                {
-                    "1.0.1+Palert": "palert.deb",
-                    "version": "1.0.1",
-                    "deb": "palert.deb"
-                }
             ],
             "installed-size": "552",
             "sha256": "6a28fb80d5db3ede324f275c13e0622cb8d98b9ac320345eab3307d0bb15369f",
